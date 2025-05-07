@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello 👋
 
-<!--
-**MRUDULA-BOT/MRUDULA-BOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Pedamallu Sai Mrudula, a first-year undergraduate student pursuing Computer Science with a focus on Artificial Intelligence at Amrita Vishwa Vidyapeetham, Coimbatore.
 
-Here are some ideas to get you started:
+📍 Hailing from Visakhapatnam, India  
+🎓 Currently learning, exploring, and trying to grow a little every day  
+🧠 Interested in thoughtful applications of AI and the role it can play in solving real-world problems  
+🌱 Always open to learning, listening, and improving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🔍 I'm hoping to gain experience through internships, research, or collaborative projects.  
+🤝 I'm grateful for any guidance, feedback, or opportunities to learn more.  
+📫 Feel free to reach out on [LinkedIn](your-link-here) if you'd like to connect.
+
+---
+
+> “Still learning. Always will be.”
