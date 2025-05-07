@@ -11,7 +11,7 @@ I'm Pedamallu Sai Mrudula, a first-year undergraduate student pursuing Computer 
 
 🔍 I'm hoping to gain experience through internships, research, or collaborative projects.  
 🤝 I'm grateful for any guidance, feedback, or opportunities to learn more.  
-📫 Feel free to reach out on [LinkedIn](your-link-here) if you'd like to connect.
+📫 Feel free to reach out on [LinkedIn](www.linkedin.com/in/sai-mrudula-pedamallu-1b44a3345) if you'd like to connect.
 
 ---
 
