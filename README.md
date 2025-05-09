@@ -1,6 +1,6 @@
 <h1 align="center">👩‍💻 Pedamallu Sai Mrudula</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=500&lines=AI+Researcher+%26+Developer;Engineering+Undergraduate+%7C+Tech+Explorer;Exploring+AI+%26+Language+Models" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=500&lines=AI+Researcher+%26+Developer;Engineering+Undergraduate;Tech+Explorer;Exploring+AI+%26+Language+Models" alt="Typing SVG" />
 </p>
 
 <p align="center">
