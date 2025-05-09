@@ -3,6 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=500&lines=AI+Explorer+%26+Creative+Developer;Engineering+Undergraduate+%7C+Researcher;Passionate+About+AI+%26+Large+Language+Models;Poetry+%2B+Programming+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 </p>
 
+
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-8a2be2?style=for-the-badge&logo=openai" />
   <img src="https://img.shields.io/badge/Expertise-ML%20%26%20NLP-ff6b6b?style=for-the-badge&logo=tensorflow" />
