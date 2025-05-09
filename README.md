@@ -204,29 +204,27 @@
   <tr>
       <td>✈️ <b>YOLOv5 for Aircraft Identification</b></td>
       <td>Implemented object detection with YOLOv5 to accurately identify and classify aircraft in images, improving automated recognition and analysis for aviation-related applications.</td>
-      <td><code>YOLOv5</code> <code>OpenCV</code> <code>Object Detection</code> <code>Computer Vision</code></td>
     </tr>
     <tr>
       <td>📅 <b>Dynamic Time Table Scheduling</b></td>
       <td>Developed an intelligent scheduling app using React, Node.js, Flask, and MongoDB, with a chatbot interface and backend logic driven by priority queues. The system dynamically reorganizes tasks based on user input and evolving priorities.</td>
-      <td><code>React</code> <code>Node.js</code> <code>Flask</code> <code>MongoDB</code> <code>Priority Queues</code></td>
     </tr>
     <tr>
       <td>🎧 <b>Dynamic Noise Regulation</b></td>
       <td>Built a smart system that analyzes back-sound sources integrated with an ESP32 to dynamically adjust earphone/audio output based on ambient noise levels for a personalized listening experience.</td>
-      <td><code>ESP32</code> <code>Audio Processing</code> <code>Embedded Systems</code> <code>IoT</code></td>
     </tr>
     <tr>
       <td>🌱 <b>AI-Driven Greenhouse System</b></td>
       <td>Developed an intelligent system that monitors soil moisture in real time and automatically triggers irrigation as needed, using AI-based decision logic to optimize water usage and plant health.</td>
-      <td><code>IoT</code> <code>Sensors</code> <code>AI Decision Logic</code> <code>Automated Irrigation</code></td>
     </tr>
     <tr>
       <td>🍷 <b>Wine Quality Prediction</b></td>
       <td>Developed an interactive, user-friendly interface for predicting wine quality using machine learning models based on Kaggle dataset. Integrated HTML, CSS, JavaScript, and visualization to deliver accurate, accessible predictions for end users.</td>
-      <td><code>ML</code> <code>Data Analysis</code> <code>Web Interface</code> <code>Visualization</code></td>
     </tr>
-    
+     <tr>
+      <td>🎮 <b>Game Development and Application Tools</b></td>
+      <td>Built a 16-bit Hack CPU in HDL and Verilog. Developed Happy Bird with PyGame, and created a Tkinter + Turtle interface for cartoony, keyboard-controlled drawing. Additionally, developed a Tkinter-based GUI for encryption/decryption and built a local sales management system using SQLite3 as backend for efficient record keeping.</td>
+     </tr>
 </table>
 
 </details>
@@ -306,5 +304,5 @@
 
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-curiosity.svg](https://forthebadge.com/images/badges/powered-by-black-magic.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg" />
 </div>
