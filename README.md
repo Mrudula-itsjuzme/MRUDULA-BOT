@@ -291,8 +291,5 @@
 
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-curiosity.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-curiosity.svg](https://forthebadge.com/images/badges/powered-by-black-magic.svg" />
 </div>
-
-<!-- Footer Wave -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/a5f2e3ef6eb42cea6181b7589ef9392c4c8f027f/images/footer.svg" width="100%">
