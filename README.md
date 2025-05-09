@@ -1,19 +1,20 @@
 <h1 align="center">👩‍💻 Pedamallu Sai Mrudula</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=500&lines=AI+Explorer+%26+Creative+Developer;CS+(AI)+@+Amrita+Vishwa+Vidyapeetham;Curious+Mind%2C+Creative+Soul;Poetry+%2B+Programming+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&random=false&width=500&lines=AI+Explorer+%26+Creative+Developer;Engineering+Undergraduate+%7C+Researcher;Passionate+About+AI+%26+Large+Language+Models;Poetry+%2B+Programming+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-8a2be2?style=for-the-badge&logo=openai" />
   <img src="https://img.shields.io/badge/Origin-Visakhapatnam-orange?style=for-the-badge&logo=map" />
   <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Projects-green?style=for-the-badge&logo=leaflet" />
-  <img src="https://img.shields.io/badge/Status-Learning%20Always-blue?style=for-the-badge&logo=academia" />
+  <img src="https://img.shields.io/badge/CGPA-8.98%2F10-blue?style=for-the-badge&logo=academia" />
 </p>
 
 <div align="center">
   
   [![GitHub followers](https://img.shields.io/github/followers/Mrudula-itsjuzme?style=social)](https://github.com/Mrudula-itsjuzme)
   [![Profile Views](https://komarev.com/ghpvc/?username=Mrudula-itsjuzme&color=blueviolet&style=flat)](https://github.com/Mrudula-itsjuzme)
+  [![Instagram](https://img.shields.io/badge/Instagram-simply__mrudula.06-E4405F?style=flat&logo=instagram)](https://instagram.com/simply_mrudula.06)
   
 </div>
 
@@ -26,7 +27,7 @@
 > *(But while I'm at it, I might as well build something cool, solve real problems, and flex a little bit too.)*
 
 <p>
-  Heya! I'm <b>Mrudula</b>, a first-year undergrad in <b>Computer Science with AI specialization</b> at <b>Amrita Vishwa Vidyapeetham, Coimbatore</b>. My journey is fueled by a mildly unhealthy obsession with <b>neural networks</b>, <b>natural language models</b>, and of course, <b>Poetry</b>.
+  Heya! I'm <b>Mrudula</b>, an engineering undergraduate <b>passionate about AI research</b> with a strong focus on <b>Generative AI and Large Language Models</b>. Skilled in Python, OpenCV, and YOLO, with a keen interest in developing AI-driven solutions and exploring emerging technologies. Enthusiastic about applying machine learning to real-world challenges and contributing to innovative research.
 </p>
 
 <div align="center">
@@ -39,9 +40,34 @@
 <details open>
 <summary><h3>📚 Education</h3></summary>
 
-**Bachelor of Technology in Computer Science (AI)**  
-Amrita Vishwa Vidyapeetham, Coimbatore  
-*2024 – 2028 (Expected)*  
+<div align="center">
+  <table>
+    <tr>
+      <th>Institution</th>
+      <th>Degree/Program</th>
+      <th>Duration</th>
+      <th>CGPA/Percentage</th>
+    </tr>
+    <tr>
+      <td><b>Amrita Vishwa Vidyapeetham</b><br>Coimbatore</td>
+      <td>B.Tech in Computer Science (AI)</td>
+      <td>2024 - 2028 (Expected)</td>
+      <td>8.98/10</td>
+    </tr>
+    <tr>
+      <td><b>Aakash Institute</b><br>Visakhapatnam</td>
+      <td>Higher Secondary Education</td>
+      <td>2022 - 2024</td>
+      <td>92.7%</td>
+    </tr>
+    <tr>
+      <td><b>Narayana Olympiad</b><br>Visakhapatnam</td>
+      <td>Secondary Education</td>
+      <td>2020 - 2022</td>
+      <td>94.6%</td>
+    </tr>
+  </table>
+</div>
 
 <div align="center">
   <table>
@@ -78,28 +104,36 @@ Amrita Vishwa Vidyapeetham, Coimbatore
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   
   #### AI/ML & Libraries
+  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+  ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-  ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
   ![NLTK](https://img.shields.io/badge/NLTK-3B5998?style=for-the-badge)
   ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-  
-  #### Web & Backend
+  ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
   ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+  
+  #### Specialized Tools
+  ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+  ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   
-  #### Tools & Platforms
+  #### Development Environment
   ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
   ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
   
 </div>
 </details>
@@ -139,7 +173,7 @@ Amrita Vishwa Vidyapeetham, Coimbatore
 ---
 
 <details open>
-<summary><h3>💼 Projects & Experience</h3></summary>
+<summary><h3>💼 Projects & Research</h3></summary>
 
 <div align="center">
   <table>
@@ -149,32 +183,59 @@ Amrita Vishwa Vidyapeetham, Coimbatore
       <th>Skills/Tools</th>
     </tr>
     <tr>
-      <td>🔒 <b>AI-Powered Password Strength Analyzer</b></td>
-      <td>Built a Flask-based web app that evaluates password strength using heuristics & ML logic.</td>
-      <td><code>Flask</code> <code>HTML/CSS</code> <code>Regex</code> <code>Security Algorithms</code></td>
+      <td>🔒 <b>Smart Grid Intrusion Detection for IEC 60870-5-104</b></td>
+      <td>Conducted security analysis on the IEC 60870-5-104 protocol and developed a working IDS & firewall implementation behind a honeypot server. (Submitted to IEEE Access)</td>
+      <td><code>Security Analysis</code> <code>IEC 60870-5-104</code> <code>Honeypot</code> <code>IDS</code></td>
     </tr>
     <tr>
-      <td>📷 <b>Object Detection with YOLOv5</b></td>
-      <td>Implemented real-time object detection using YOLOv5 and OpenCV.</td>
-      <td><code>PyTorch</code> <code>OpenCV</code> <code>YOLO</code> <code>Camera Integration</code></td>
+      <td>🤖 <b>Motion Capture and Animation Transfer System</b></td>
+      <td>Developed a motion capture system using MediaPipe for pose detection and Blender for creating preliminary 3D models targeting applications in animation, gaming, and VR.</td>
+      <td><code>MediaPipe</code> <code>Blender</code> <code>3D Animation</code> <code>Motion Capture</code></td>
     </tr>
     <tr>
-      <td>🗣️ <b>Text Sentiment Analyzer</b></td>
-      <td>Created an interactive tool to classify sentiment using scikit-learn and NLTK.</td>
-      <td><code>NLP</code> <code>SVM Classifier</code> <code>Data Cleaning</code></td>
+      <td>☀️ <b>Hybrid Approach for Solar Forecasting</b></td>
+      <td>Developed a system using ERT, CNN, GRU, RL, and DAE models for accurate forecasting with a unique approach using Flask and CSS.</td>
+      <td><code>ERT</code> <code>CNN</code> <code>GRU</code> <code>RL</code> <code>DAE</code> <code>Flask</code></td>
     </tr>
     <tr>
-      <td>🎨 <b>AI + Art Generator</b> <i>(Coming Soon)</i></td>
-      <td>Currently working on a GAN-based project that turns text prompts into abstract art.</td>
-      <td><code>Generative AI</code> <code>Deep Learning</code> <code>TensorFlow</code></td>
+      <td>💬 <b>Rasa Chatbot</b></td>
+      <td>Built conversational AI chatbots using the Rasa framework, with voice and web integration. The bot includes a basic scheduling app and backend expandable for future use.</td>
+      <td><code>Rasa</code> <code>NLP</code> <code>Conversational AI</code> <code>Voice Integration</code></td>
     </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrudula-itsjuzme&theme=radical&hide_border=true" />
-</div>
-</details>
+    <tr>
+      <td>✈️ <b>YOLOv5 for Aircraft Identification</b></td>
+      <td>Implemented object detection with YOLOv5 to accurately identify and classify aircraft in images, improving automated recognition and analysis for aviation-related applications.</td>
+      <td><code>YOLOv5</code> <code>OpenCV</code> <code>Object Detection</code> <code>Computer Vision</code></td>
+    </tr>
+    <tr>
+      <td>📅 <b>Dynamic Time Table Scheduling</b></td>
+      <td>Developed an intelligent scheduling app using React, Node.js, Flask, and MongoDB, with a chatbot interface and backend logic driven by priority queues. The system dynamically reorganizes tasks based on user input and evolving priorities.</td>
+      <td><code>React</code> <code>Node.js</code> <code>Flask</code> <code>MongoDB</code> <code>Priority Queues</code></td>
+    </tr>
+    <tr>
+      <td>🎧 <b>Dynamic Noise Regulation</b></td>
+      <td>Built a smart system that analyzes back-sound sources integrated with an ESP32 to dynamically adjust earphone/audio output based on ambient noise levels for a personalized listening experience.</td>
+      <td><code>ESP32</code> <code>Audio Processing</code> <code>Embedded Systems</code> <code>IoT</code></td>
+    </tr>
+    <tr>
+      <td>🌱 <b>AI-Driven Greenhouse System</b></td>
+      <td>Developed an intelligent system that monitors soil moisture in real time and automatically triggers irrigation as needed, using AI-based decision logic to optimize water usage and plant health.</td>
+      <td><code>IoT</code> <code>Sensors</code> <code>AI Decision Logic</code> <code>Automated Irrigation</code></td>
+    </tr>
+    <tr>
+      <td>🍷 <b>Wine Quality Prediction</b></td>
+      <td>Developed an interactive, user-friendly interface for predicting wine quality using machine learning models based on Kaggle dataset. Integrated HTML, CSS, JavaScript, and visualization to deliver accurate, accessible predictions for end users.</td>
+      <td><code>ML</code> <code>Data Analysis</code> <code>Web Interface</code> <code>Visualization</code></td>
+    </tr>
+    <tr>
+      <td>📝 <b>Mood Based Writing Assistant</b></td>
+      <td>Created an intelligent writing tool that adapts tone, style, and language based on user mood input. Using NLP for context sentiment and generating content varying from poems to screenplays. Designed for popular integration into journaling, mental health apps, and creative writing platforms.</td>
+      <td><code>NLP</code> <code>Sentiment Analysis</code> <code>Content Generation</code> <code>Adaptive UI</code></td>
+    </tr>
+    <tr>
+      <td>🎮 <b>Game Development and Application Tools</b></td>
+      <td>Built a 16-bit Hack CPU in HDL and Verilog. Developed Happy Bird with PyGame, and created a Tkinter + Turtle interface for cartoony, keyboard-controlled drawing. Additionally, developed a Tkinter-based GUI for encryption/decryption and built a local sales management system using SQLite3 as backend for efficient record keeping.</td>
+      <td><code>HDL</code> <code>Verilog</code> <code>PyGame</code> <code>Tkinter</code> <code>Turtle</code> <code>SQLite3</
 
 ---
 
