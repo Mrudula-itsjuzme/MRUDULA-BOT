@@ -11,9 +11,7 @@
 </p>
 
 <div align="center">
-  
-  [![GitHub followers](https://img.shields.io/github/followers/Mrudula-itsjuzme?style=social)](https://github.com/Mrudula-itsjuzme)
-  [![Profile Views](https://komarev.com/ghpvc/?username=Mrudula-itsjuzme&color=blueviolet&style=flat)](https://github.com/Mrudula-itsjuzme)
+
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-sai--mrudula--pedamallu-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/sai-mrudula-pedamallu-1b44a3345)
   [![Instagram](https://img.shields.io/badge/Instagram-simply__mrudula.06-E4405F?style=flat&logo=instagram)](https://instagram.com/simply_mrudula.06)
   
