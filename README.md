@@ -297,9 +297,6 @@ Most of what I do is just experimenting, exploring, and trying to understand thi
 
 ---
 
-<h3 align="center">💬 Personal Note</h3>
-<p align="center"><i>"I believe in the power of AI to solve meaningful problems while keeping humans at the center of technology. When I'm not coding, you'll find me writing poetry, exploring new research papers, or contemplating the future of artificial intelligence over a cup of tea (because tea > coffee, always)."</i></p>
-
 <div align="center">
   <img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg" />
 </div>
