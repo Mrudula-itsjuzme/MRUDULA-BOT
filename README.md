@@ -296,7 +296,3 @@ Most of what I do is just experimenting, exploring, and trying to understand thi
 </details>
 
 ---
-
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg" />
-</div>
