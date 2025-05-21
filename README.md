@@ -22,10 +22,11 @@
 <details open>
 <summary><h3>🧠 About Me</h3></summary>
 
-> "Building intelligent systems through research, creativity, and relentless curiosity"
-
 <p>
-  Hi there! I'm <b>Mrudula</b>, an engineering undergraduate specializing in <b>AI research and development</b>. With expertise in machine learning, computer vision, and NLP, I'm focused on creating impactful AI solutions that address real-world challenges. My passion lies at the intersection of technical innovation and creative problem-solving, particularly in developing advanced applications using large language models and emerging AI technologies.
+Hi, I’m Mrudula. I’m an undergraduate engineering student interested in AI. I’m currently learning about topics like machine learning, computer vision, and natural language processing.
+
+Most of what I do is just experimenting, exploring, and trying to understand things better. I’m still figuring out where I fit in this field, but I enjoy the learning process and seeing where it might lead.
+
 </p>
 
 <div align="center">
