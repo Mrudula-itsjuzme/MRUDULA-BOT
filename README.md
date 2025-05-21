@@ -5,7 +5,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-8a2be2?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/Expertise-ML%20%26%20NLP-ff6b6b?style=for-the-badge&logo=tensorflow" />
   <img src="https://img.shields.io/badge/Open%20To-Research%20Collaborations-green?style=for-the-badge&logo=research" />
   <img src="https://img.shields.io/badge/CGPA-8.98%2F10-blue?style=for-the-badge&logo=academia" />
 </p>
